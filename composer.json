@@ -1,0 +1,16 @@
+{
+    "name": "exam-system/exam-system",
+    "description": "A simple exam system built with PHP and Vue.js",
+    "require": {
+        "php": "^8.1",
+        "firebase/php-jwt": "^6.4",
+        "box/spout": "^3.3",
+        "predis/predis": "^2.0",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

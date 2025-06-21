@@ -1,0 +1,2 @@
+crontab -e
+*/30 * * * * php /path/to/exam-system/app/Scripts/clean_redis.php

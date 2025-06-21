@@ -1,0 +1,17 @@
+{
+  "name": "exam-system-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "axios": "^1.6.7"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  }
+}
